@@ -10,8 +10,4 @@ navbar:
       href: index.html
     - text: "Theoretical background"
       href: about.html
-    - text: "Projects"
-      href: projects.html
-    - text: "Papers"
-      href: papers.html
 output: distill::distill_article
