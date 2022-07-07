@@ -1,0 +1,17 @@
+name: "HostSwitch"
+title: "HostSwitch"
+theme: theme.css
+description: |
+  My Website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Theoretical background"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Papers"
+      href: papers.html
+output: distill::distill_article
