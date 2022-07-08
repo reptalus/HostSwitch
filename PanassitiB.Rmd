@@ -1,0 +1,19 @@
+---
+title: "Bernd Panassiti"
+image: "PanassitiB.jpg"
+links:
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Bernd-Panassiti/"
+  - label: ORCID
+    url: "https://orcid.org/0000-0002-5899-4584/"
+  - label: GitHub
+    url: "https://github.com/berndpanassiti/"
+  - label: Email
+    url: "mailto:bernd.panassiti@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+I am a classically trained data scientist living in the San Francisco Bay Area. 
+Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+true crime podcasts, and causal inference.

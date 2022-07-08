@@ -1,0 +1,33 @@
+---
+title: "Valeria Trivellone"
+image: "TrivelloneV_image.jpg"
+links:
+  - label: UoI Profile
+    url: "https://directory.illinois.edu/detail?userId=valeria3@illinois.edu&widgetId=15/"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Valeria-Trivellone/"
+  - label: ORCID
+    url: "https://orcid.org/0000-0003-1415-4097/"
+  - label: GitHub
+    url: "https://github.com/reptalus/"
+  - label: Email
+    url: "mailto:valeria3@illinois.edu"
+output:
+  postcards::trestles
+---
+<font size="5" color="red">Bio</font>
+
+I am a Postdoctoral Research Associate studying ecology and evolutionary biology of host-pathogen associations at University of Illinois at Urbana-Champaign. My research focuses on the understanding of the processes driving interacting species and the maintenance of biodiversity in ecological communities.
+My work ranges from field studies of the ecological theory of species associations to fundamental studies of the evolution of host-pathogen systems. In particular, I use the interactions among phytoplasmas, Auchenorrhyncha and
+their plant hosts as a biological model to pursues broadly conceptual research in ‘natural’ and managed ecosystems.
+
+<font size="5" color="red">Education</font>
+
+<b>University of Neuchâtel</b> | Switzerland \
+Ph.D. in Biology | April 2012 - April 2016 \
+<b>University of Pisa</b> | Italy \
+M.S. in Environmental Sciences | September 1997 - April 2003 
+
+<font size="5" color="red">Experience</font>
+
+Since 2018, she works at the Illinois Natural History Survey, University of Illinois (US) as postdoctoral fellow after working as a research assistant at Federal Institute for Forest Snow and Landscape Research WSL and Agroscope in Switzerland.

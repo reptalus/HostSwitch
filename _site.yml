@@ -10,4 +10,10 @@ navbar:
       href: index.html
     - text: "Theoretical background"
       href: about.html
+    - text: "Authors"
+      menu:
+        - text: "Trivellone V."
+          href: TrivelloneV.html
+        - text: "Panassiti B."
+          href: PanassitiB.html
 output: distill::distill_article
