@@ -30,4 +30,13 @@ M.S. in Environmental Sciences | September 1997 - April 2003
 
 <font size="5" color="red">Experience</font>
 
-Since 2018, she works at the Illinois Natural History Survey, University of Illinois (US) as postdoctoral fellow after working as a research assistant at Federal Institute for Forest Snow and Landscape Research WSL and Agroscope in Switzerland.
+1.  I created the global Hemiptera-Phytoplasma-Plant biological interaction web interface,
+<a href="http://trivellone.speciesfile.org/index.asp/">HPP database</a>, that enhances data usability.
+2.  As PI of a collaborative Swiss NSF and Swiss Federal grants, I have developed expertise on
+leadership, training and motivation.
+3.  I established a conceptual framework as a tool for the selection of suitable bio-indicators of high
+levels of taxonomic and functional biodiversity in agroecosystems.
+4.  With a novel analytical approach, I partitioned the effects of several groups of environmental
+predictors expected to shape biological communities.
+5.  I provided outreach for stakeholders for the estimation of the risk of disease spreading of vector-
+borne pathogens.
