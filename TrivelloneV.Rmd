@@ -31,7 +31,7 @@ M.S. in Environmental Sciences | September 1997 - April 2003
 <font size="5" color="red">Experience</font>
 
 1.  I created the global Hemiptera-Phytoplasma-Plant biological interaction web interface,
-<a href="http://trivellone.speciesfile.org/index.asp/">HPP database</a>, that enhances data usability.
+<a href="http://trivellone.speciesfile.org/index.asp">HPP database</a>, that enhances data usability.
 2.  As PI of a collaborative Swiss NSF and Swiss Federal grants, I have developed expertise on
 leadership, training and motivation.
 3.  I established a conceptual framework as a tool for the selection of suitable bio-indicators of high
