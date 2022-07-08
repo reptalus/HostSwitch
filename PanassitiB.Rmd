@@ -2,6 +2,8 @@
 title: "Bernd Panassiti"
 image: "PanassitiB.jpg"
 links:
+  - label: Personal webpage
+    url: "https://berndpanassiti.github.io/"
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Bernd-Panassiti/"
   - label: ORCID
@@ -13,7 +15,18 @@ links:
 output:
   postcards::trestles
 ---
- 
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+<font size="5" color="red">Bio</font> 
+
+I am a quantitative ecologist connecting ecological big data and statistical models. My main research interest concerns the development of habitat models to identify and quantify environmental factors causing the observed spatial pattern of species or diseases. Combining bio-monitoring, and statistical models, I study insect diversity in Bavarian grasslands. Results shall provide more ecological insight on how to optimize agro-environmental actions to obtain more species-rich grasslands.
+
+<font size="5" color="red">Education</font>
+
+<b>Carl von Ossietzky University of Oldenburg</b> | Germany \
+Dr. rer. nat. in Biology | Feb. 2018 \
+<b>University of Rostock</b> | Germany \
+M.S. (German Diplom) in Biology (Entomology and Botany) | Nov. 2008
+
+
+<font size="5" color="red">Experience</font>
+
+Since 2019, he works at the Bavarian State Research Center for Agriculture (LfL, Germany) as postdoctoral fellow after working as a research assistant at Laimburg - Research Centre for Agriculture and Forestry in Italy.
